@@ -4,7 +4,7 @@ const notes = require("./db/db.json")
 const { v4: uuidv4 } = require('uuid')
 
 const app = express();
-const PORT = 3000;
+var PORT = process.env.PORT || 3001;
 
 app.use(express.static(__dirname + '/public'));
 app.use(express.urlencoded({extended: true}));
