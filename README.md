@@ -29,7 +29,7 @@ npm i
 
 ## Usage
 
-se is simple with this application. You can access the deployed application at (). To add a note, begin typing a title and the content you wish to give it and then click save to keep it for use later. To view past notes, simply click on them in the left side of the page. To delete them, click on the red trash can next to the title.
+se is simple with this application. You can access the deployed application at https://intense-castle-38987.herokuapp.com/. To add a note, begin typing a title and the content you wish to give it and then click save to keep it for use later. To view past notes, simply click on them in the left side of the page. To delete them, click on the red trash can next to the title.
 
 ## Contributing
 
